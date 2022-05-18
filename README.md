@@ -79,4 +79,4 @@
 
 ### <p style="color: #949393">Feedback</p> ###
 
-If you have any issues or would like to leave some feedback, here is a link to my [GitHub](https://github.com/Glitch-Code-Design/Dark-Twilight-Theme/issues 'Github').
+If you have any issues or would like to leave some feedback, here is a link to my [GitHub](https://github.com/Glitch-Code-Design/Twilight-Dusk-VS-Code-Theme/issues 'Github').
