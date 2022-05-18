@@ -6,7 +6,7 @@
     <img src="./img/logo.png" style="height: 150px; width: 125px;" alt="logo">
 </p>
 
-# <p align="center" style="color: #949393">Dark Twilight Theme</p> #
+# <p align="center" style="color: #949393">Twilight Dusk</p> #
 
 --- 
 <!--CHANGELOG-->
@@ -44,7 +44,7 @@
 
 - Open the Extensions in Visual Studio Code ( Ctrl + Shift + X ) for Windows / Linux & ( ⇧ + ⌘ + X ) for Mac
 
-- Type __Dark Twilight Theme__ in the search box
+- Type __Twilight Dusk__ in the search box
 
 - Click Install
 
