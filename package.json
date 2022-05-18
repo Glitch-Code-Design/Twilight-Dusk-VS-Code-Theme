@@ -1,0 +1,33 @@
+{
+    "name": "dark-twilight",
+    "displayName": "Dark Twilight",
+    "description": "My first theme, easy on the eyes & visually appealing",
+    "version": "1.0.0",
+    "publisher": "Glitch-Code-Design",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/Glitch-Code-Design/Dark-Twilight-VsCodeTheme"
+    },
+    "keywords": [
+        "theme",
+        "dark theme",
+        "dark",
+        "twilight",
+        "dark twilight"
+    ],
+    "engines": {
+        "vscode": "^1.67.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Dark Twilight",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Dark Twilight-color-theme.json"
+            }
+        ]
+    }
+}
