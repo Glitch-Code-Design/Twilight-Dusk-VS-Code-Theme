@@ -3,7 +3,7 @@
 <!--LOGO-->
 
 <p align="center">
-    <img src="./img/logo.png" style="height: 150px; width: 125px;" alt="logo">
+    <img src="./img/logo.png" alt="logo">
 </p>
 
 # <p align="center" style="color: #949393">Twilight Dusk</p> #
