@@ -1,10 +1,6 @@
 
 ---
-<!--LOGO-->
-
-<p align="center">
-    <img src="./img/logo.png" alt="logo">
-</p>
+<!--LOGO TEXT-->
 
 # <p align="center" style="color: #949393">Twilight Dusk</p> #
 
