@@ -17,7 +17,7 @@
 
 - <p style="color: #949393">added logo to extension</p>
 
-- <p style="color: #949393">adjusted logo size</p>
+- <p style="color: #949393">adjusted page logo size</p>
 
 ---
 <!--IMAGE PREVIEW-->
