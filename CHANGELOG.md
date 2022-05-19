@@ -1,9 +1,11 @@
-# Change Log
+### <p style="color: #949393">Changelog</p> ###
 
-All notable changes to the "twilight-dusk" extension will be documented in this file.
+---
 
-Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
+##### <p style="color: #949393">Version 1.2.0</p> #####
 
-## [Unreleased]
+- <p style="color: #949393">added logo to extension</p>
 
-- Initial release
+- <p style="color: #949393">adjusted logo size</p>
+
+---

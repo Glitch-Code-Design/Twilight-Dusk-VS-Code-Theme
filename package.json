@@ -2,6 +2,7 @@
     "name": "twilight-dusk",
     "displayName": "Twilight Dusk",
     "description": "Theme based on the colors of twilight",
+    "icon": "./img/logo.png",
     "version": "1.1.0",
     "publisher": "Glitch-Code-Design",
     "repository": {
